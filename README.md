@@ -85,3 +85,10 @@ You can now interact with both the Movie Server and the front-end by accessing:
 ## Additional Notes
 - If you need to modify database connection settings, you may need to adjust the connection details within the code (`Database.MovieServer.java`).
 - If you're running on a different operating system, ensure that the paths and commands are adjusted accordingly (e.g., use `;` instead of `:` for classpath separators on Windows).
+
+## Contributors:
+
+- [Aroush Qureshi](https://github.com/johndoe)
+- [Hana Hassan](https://github.com/hanahassan)
+- [Chloe Choi](https://github.com/chloebchoi)
+- [Mariam Ibrahim](https://github.com/mariam1br)
