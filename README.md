@@ -88,7 +88,7 @@ You can now interact with both the Movie Server and the front-end by accessing:
 
 ## Contributors:
 
-- [Aroush Qureshi](https://github.com/johndoe)
-- [Hana Hassan](https://github.com/hanahassan)
-- [Chloe Choi](https://github.com/chloebchoi)
-- [Mariam Ibrahim](https://github.com/mariam1br)
+- [Aroush Qureshi]([https://github.com/johndoe](https://github.com/aroushq1)
+- [Hana Hassan]([https://github.com/hanahassan](https://github.com/hanahassan)
+- [Chloe Choi]([https://github.com/chloebchoi](https://github.com/chloebchoi)
+- [Mariam Ibrahim]([https://github.com/mariam1br](https://github.com/mariam1br)
